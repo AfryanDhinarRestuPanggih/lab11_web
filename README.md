@@ -5,7 +5,7 @@
 
 ## 📖 Daftar Praktikum
 
-4. [Praktikum 4: Framework Lanjutan (Modul Login)](#praktikum-4-framework-lanjutan-(modul login))
+4. [Praktikum 4: Framework Lanjutan (Modul Login)](#praktikum-4-framework-lanjutan-(modul login)-)
 5. [Praktikum 5: Pagination dan Pencarian](#praktikum-5-pagination-dan-pencarian)
 6. [Praktikum 6: Upload File Gambar](#praktikum-6-upload-gambar)
 
